@@ -2,8 +2,28 @@
     "products":
     [
         {
-            "id": "1",
-            "title": "Produto de Teste"
-        }
+            "id": 1,
+            "title": "Hambúrguer"
+          },
+          {
+            "id": 2,
+            "title": "X-Búrguer"
+          },
+          {
+            "id": 3,
+            "title": "X-Bacon"
+          },
+          {
+            "id": 4,
+            "title": "X-Tudo"
+          },
+          {
+            "id": 5,
+            "title": "Coca cola 350ml"
+          },
+          {
+            "id": 6,
+            "title": "Coca cola 600ml"
+          }
     ]
 }
